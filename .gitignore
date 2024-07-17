@@ -3,6 +3,10 @@
 *.zip
 *.txt
 *.csv
+*.npy
+raw_data/
+*.parquet
+*.DS_STORE
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
